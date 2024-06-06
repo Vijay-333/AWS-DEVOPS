@@ -3,5 +3,3 @@ Resources:
     Type: AWS::S3::Bucket
     Properties: 
       BucketName: SampleBucket
-      VersioningConfiguration: 
-        Status: Enabled
