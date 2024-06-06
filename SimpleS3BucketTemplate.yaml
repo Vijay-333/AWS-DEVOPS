@@ -2,4 +2,4 @@ Resources:
   Bucket:
     Type: AWS::S3::Bucket
     Properties: 
-      BucketName: SampleBucket
+      BucketName: samplebucket
