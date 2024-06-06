@@ -1,0 +1,3 @@
+template-file-path: SimpleS3BucketTemplate.yaml
+parameters: {}
+tags: {}
