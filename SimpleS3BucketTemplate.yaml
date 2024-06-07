@@ -3,3 +3,5 @@ Resources:
     Type: 'AWS::S3::Bucket'
     Properties: 
       BucketName: "sample.bucket.exercise"
+      VersioningConfiguration:
+        Status: Enabled
