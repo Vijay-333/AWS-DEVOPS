@@ -1,0 +1,8 @@
+Description: Creating a Simple EC2 instance to play with Lambda
+Parameters:
+  ECInstance:
+    Type: AWS::EC2::Instance
+    Properties:
+      ImageId: "ami-04b70fa74e45c3917"
+      InstanceType: "t2.micro"
+      KeyName: "dummy"
