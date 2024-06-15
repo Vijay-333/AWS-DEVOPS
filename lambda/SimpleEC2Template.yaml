@@ -1,5 +1,5 @@
 Description: Creating a Simple EC2 instance to play with Lambda
-Parameters:
+Resources:
   ECInstance:
     Type: AWS::EC2::Instance
     Properties:
